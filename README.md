@@ -10,6 +10,7 @@ https://web.cs.ucdavis.edu/~koehl/Teaching/ECS129/Projects/Assignment5_energy.pd
 * `/PDB_File_py_src/` protein internal energy calculation written in python using self-provided atom variables
 * `/data/` contains pdb and crd files 
 * `/Share/` contains the Written Report (PDF and DOCX) and Rough Interface along with any supplemental files.
+* `/cpp_src/` protein internal energy calculation written in C++
 
 
 #PLEASE NOTE:- Depending on where you save the files you will have to change the file path in main.py in the PDB_File_py_src folder
