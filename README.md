@@ -1,5 +1,6 @@
 # Protein-Internal-Energy
-Project for UC Davis ECS 129 2020 By Kaustubh Deshpande
+Project for UC Davis ECS 129
+By Kaustubh Deshpande
 https://web.cs.ucdavis.edu/~koehl/Teaching/ECS129/projects.html
 https://web.cs.ucdavis.edu/~koehl/Teaching/ECS129/Projects/Assignment5_energy.pdf
 
