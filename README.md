@@ -5,14 +5,6 @@ https://web.cs.ucdavis.edu/~koehl/Teaching/ECS129/projects.html
 https://web.cs.ucdavis.edu/~koehl/Teaching/ECS129/Projects/Assignment5_energy.pdf
 
 
-
-# PROJECT PROGRESS
-- [x] Open PDB file
-- [X] Meaningfully extract atom variables into efficient data structure
-- [X] Implement mathematical computation for total protein internal energy
-- [X] Perform protein comparison
-- [X] Written report with analysis
-
 # Folder Organization
 * `/CRD_File_py_src/` protein internal energy calculation written in python using the professor provided CRD files containing pre-fetched atom variables
 * `/PDB_File_py_src/` protein internal energy calculation written in python using self-provided atom variables
